@@ -22,7 +22,7 @@ This repository contains a comprehensive Jupyter notebook that teaches clinical 
 
 As a nurse scientist who transitioned into AI, I've seen firsthand how clinical expertise is essential for building trustworthy medical AI. This notebook demonstrates:
 
-1. **The Danger of Blind Trust**: A model trained on 2,208 "wound images" learned to detect edges, not wounds
+1. **The Danger of Blind Trust**: A model trained on 2,2760 "wound images" learned to detect edges, not wounds
 2. **The Power of Clinical Insight**: Only a clinician would recognize zero false positives as suspicious
 3. **The Path Forward**: How nurses and clinicians must lead AI development, not just adopt it
 
@@ -30,7 +30,7 @@ As a nurse scientist who transitioned into AI, I've seen firsthand how clinical 
 
 1. **Train baseline model** → 68.7% mAP (seemingly reasonable)
 2. **Clinical suspicion** → Zero false positives? That's not normal
-3. **Data investigation** → Discover extreme 160:1 positive/negative imbalance
+3. **Data investigation** → Discover extreme 159:1 positive/negative imbalance
 4. **Form hypothesis** → Model learned edge detection, not wound recognition
 5. **Scientific verification** → Grad-CAM reveals focus on boundaries only
 6. **Clinical remediation** → Balanced retraining with augmentation
@@ -59,8 +59,6 @@ This notebook is your invitation to the development table. Because if we don't d
 
 **Bryan K. Dang, MS, BSN, RN, PHN**  
 Nurse Scientist | AI Developer | Patient Advocate
-
-*"The future of clinical AI depends on clinicians who code, not just coders who claim to understand clinical work."*
 
 ---
 
