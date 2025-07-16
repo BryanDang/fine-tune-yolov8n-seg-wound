@@ -44,7 +44,7 @@ As a nurse scientist who transitioned into AI, I've seen firsthand how clinical 
 
 ## For My Nursing Colleagues
 
-The "nursing shortage" isn't about lack of nurses—it's systemic understaffing. As AI begins automating clinical tasks, we have a choice: shape these tools with our patient-centered expertise, or let others build systems that don't understand bedside care.
+The "nursing shortage" isn't about lack of nurses—it's systemic understaffing. As AI begins automating clinical tasks, we have a choice: shape these tools with our patient-centered expertise, or let others build systems that miss the nuances of bedside care.
 
 This notebook is your invitation to the development table. Because if we don't design the future of nursing, someone else will.
 
@@ -58,7 +58,7 @@ This notebook is your invitation to the development table. Because if we don't d
 ## Contact
 
 **Bryan K. Dang, MS, BSN, RN, PHN**  
-Nurse Scientist | AI Developer | Patient Advocate
+Nurse Scientist | AI Developer | Patient & Clinician Advocate
 
 ---
 
